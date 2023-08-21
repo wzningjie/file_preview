@@ -8,4 +8,5 @@
         </service>
         <activity android:name=".X5WebviewActivity"/>
     </application>
+    <uses-sdk tools:overrideLibrary="com.tencent.tbs.tbsfile"/>
 </manifest>
